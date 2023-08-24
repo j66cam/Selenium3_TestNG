@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2856aa29-5952-41b7-b5f6-bc8582f99885" name="Changes" comment="" />
+    <list default="true" id="2856aa29-5952-41b7-b5f6-bc8582f99885" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/demoqa/elementstab/TextBoxPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testdemoqa/TC_001_TextBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/demoqa/DemoQAHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/demoqa/DemoQAHomePage.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +43,36 @@
     "last_opened_file_path": "C:/Users/juan.mejiam/Downloads/Cursos/Selenium/Proyectos/GitHub/Selenium3_TestNG/Selenium3_TestNG/config"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\juan.mejiam\Downloads\Cursos\Selenium\Proyectos\GitHub\Selenium3_TestNG\Selenium3_TestNG\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TC_001_TextBox.fillTexBoxInputs" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium3_TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testdemoqa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testdemoqa" />
+      <option name="MAIN_CLASS_NAME" value="testdemoqa.TC_001_TextBox" />
+      <option name="METHOD_NAME" value="fillTexBoxInputs" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TC_001_TextBox.fillTexBoxInputs" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
